@@ -1,0 +1,15 @@
+[{
+    "firstName":"Agilizei",
+    "lastName":"Bootcamp",
+    "adress":"Sem endereco",
+    "emailAdress":"test@gmail.com",
+    "radioGender":"m",
+    "checks":[
+       "Netflix",
+       "Dormir"
+    ],
+    "selectCountries":"Dinamarca",
+    "selectYears":"",
+    "selectMonths":"",
+    "pwd":""
+ }]

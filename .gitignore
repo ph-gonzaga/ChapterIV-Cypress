@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+cypress/videos
+
+mochawesome-report
+index.json
+
+package-lock.json
